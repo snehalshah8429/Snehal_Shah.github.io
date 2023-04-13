@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif, cursive;
+}
+
+.cloud1 {
+    position: absolute;
+    top: 150px;
+    right: 220px;
+}
+
+h1 {
+    margin-top: 0;
+    padding-top: 180px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 85px;
+    color: #caf3f3;
+}
+
+.top-para {
+    font-size: 200%;
+    color: #caf3f3;
+}
+
+.top-container {
+    background-color: #54a9a9;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 350px;
+    left: 220px;
+}
+
+.mountain-img {
+    height: 450px;
+}
+
+.line {
+    border-style: none;
+    border-top: dotted;
+    width: 7%;
+    border-width: 6px;
+}
+
+.heythere {
+    font-size: 60px;
+    font-family: 'Dancing Script';
+    color: #54a9a9;
+}
+
+.mypic {
+    width: 20%;
+}
+
+.heythere1 {
+    font-size: 20px;
+    color: rgb(100, 99, 99);
+}
+
+
+.myskills {
+    font-size: 60px;
+    font-family: 'Dancing Script';
+    color: #54a9a9;
+}
+
+.webpaint {
+    width: 17%;
+    float: left;
+    padding: 40px;
+}
+
+.webdev {
+    font-size: 38px;
+    font-family: 'Dancing Script';
+    color: #54a9a9;
+}
+
+.webdev1 {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(100, 99, 99);
+}
+
+
+.comp-programming {
+    margin-left: 400px;
+    font-size: 38px;
+    font-family: 'Dancing Script';
+    color: #54a9a9;
+}
+
+.programmingimg {
+    float: right;
+    width: 20%;
+}
+
+.comp-programming1 {
+    margin-left: 400px;
+    font-size: 20px;
+    color: rgb(100, 99, 99);
+}
+
+.contactimg {
+    width: 20%;
+}
+
+.contact {
+    font-size: 60px;
+    font-family: 'Dancing Script';
+    color: #54a9a9;
+}
+
+.contact-head {
+    font-size: 30px;
+    color: #54a9a9;
+    font-family: 'Dancing Script';
+
+}
+
+.contact1 {
+    font-size: 20px;
+    color: rgb(100, 99, 99);
+}
+
+.webdevelopment {
+    margin-left: 300px;
+    text-align: left;
+}
+
+.Computer-Programming {
+    margin-right: 300px;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #54a9a9;
+    margin-bottom: 0;
+    padding: 20px 0 20px 0;
+
+}
+
+.footer-link {
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    width: 200px;
+    font-family: 'Dancing Script', cursive;
+}
+
+a:hover.footer-link {
+    color: #1A374D;
+}
+
+.linkedin-img {
+    width: 20%;
+}
+
+.twitter-img {
+    width: 20%;
+}
+
+.insta-img {
+    width: 20%;
+}
+
+.gmail-img {
+    width: 20%;
+}
